@@ -1,6 +1,7 @@
 # courses-fire-app
 
 > A Vue.js project using Cloud Firestore and Firebase Hosting.
+
 ![image](https://user-images.githubusercontent.com/63016038/141855226-b2606766-3c07-4854-aaf8-fce90c5c42aa.png)
 
 ## Build Setup
